@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tw"
+        android:title="Transfer Wi-Fi"/>
+    <item
+        android:id="@+id/au"
+        android:title="App Ulasan"/>
+    <item
+        android:id="@+id/kub"
+        android:title="Kirim Umpan Balik"/>
+    <item
+        android:id="@+id/ba"
+        android:title="Bagikan Aplikasi"/>
+    <item
+        android:id="@+id/bhs"
+        android:title="Bahasa"/>
+    <item
+        android:id="@+id/al"
+        android:title="Aplikasi Lain"/>
+    <item
+        android:id="@+id/bnt"
+        android:title="Bantuan"/>
+    <item
+        android:id="@+id/tk"
+        android:title="Tentang Kami"/>
+
+</menu>
